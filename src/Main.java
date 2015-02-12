@@ -10,7 +10,7 @@
 		public static void main(String[] args) {			
 			
 		//Instantiate Superhero
-		SuperHero superhero = new SuperHero("Spider Man");
+		SuperHero superhero = new SuperHero("Thor");
 		superhero.showPowers();
 		superhero.fight();
 				
